@@ -12,5 +12,19 @@
     "date": "2026-03-25",
     "tags": ["tech"],
     "summary": "为什么简单的方案往往是最好的方案。"
+  },
+  {
+    "id": "on-unfairness",
+    "title": "On Unfairness",
+    "date": "2026-03-05",
+    "tags": ["life", "thinking"],
+    "summary": "从游戏里的武器强度差异，到蓝海与红海策略的切换，再到学校与公司两套系统之间越来越宽的裂缝。"
+  },
+  {
+    "id": "backtesting-life",
+    "title": "Backtesting Life",
+    "date": "2025-11-21",
+    "tags": ["life", "thinking"],
+    "summary": "用Boss直聘做职业回测、从一根跳绳里读人、先画终点再规划路径——三个故事，同一个底层逻辑。"
   }
 ]
