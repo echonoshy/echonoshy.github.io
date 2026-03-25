@@ -1,0 +1,16 @@
+[
+  {
+    "id": "hello-world",
+    "title": "Hello World",
+    "date": "2026-03-25",
+    "tags": ["life"],
+    "summary": "第一篇日志，关于这个站点的由来。"
+  },
+  {
+    "id": "on-simplicity",
+    "title": "On Simplicity",
+    "date": "2026-03-25",
+    "tags": ["tech"],
+    "summary": "为什么简单的方案往往是最好的方案。"
+  }
+]
