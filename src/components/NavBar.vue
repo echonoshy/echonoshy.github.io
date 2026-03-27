@@ -54,9 +54,11 @@ onUnmounted(() => window.removeEventListener('scroll', onScroll))
   font-weight: 600;
   color: var(--color-text);
   letter-spacing: -0.02em;
+  transition: color var(--transition-fast), letter-spacing var(--transition-normal);
 }
 .nav-logo:hover {
   color: var(--color-accent);
+  letter-spacing: 0.06em;
 }
 
 .nav-links {
