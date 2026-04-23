@@ -1,5 +1,12 @@
 [
   {
+    "id": "ripple",
+    "title": "Ripple",
+    "date": "2026-04-23",
+    "tags": ["life", "poem"],
+    "summary": "一颗石子落进水里，我们以为自己是石子，其实更多时候，是那一圈正在远去的波纹。"
+  },
+  {
     "id": "hello-world",
     "title": "Hello World",
     "date": "2026-03-25",
