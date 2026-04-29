@@ -1,19 +1,5 @@
 [
   {
-    "id": "in-the-game",
-    "title": "入局者",
-    "date": "2026-04-29",
-    "tags": ["life", "thinking", "investing"],
-    "summary": "所谓入局者心态，不是莽撞冲进去，而是用可承受的代价进入真实反馈循环。很多事情不是准备好了再开始，而是开始以后，才知道该准备什么。"
-  },
-  {
-    "id": "ripple",
-    "title": "Ripple",
-    "date": "2026-04-23",
-    "tags": ["life", "poem"],
-    "summary": "一颗石子落进水里，我们以为自己是石子，其实更多时候，是那一圈正在远去的波纹。"
-  },
-  {
     "id": "hello-world",
     "title": "Hello World",
     "date": "2026-03-25",
@@ -33,5 +19,12 @@
     "date": "2025-11-21",
     "tags": ["life", "thinking"],
     "summary": "用Boss直聘做职业回测、从一根跳绳里读人、先画终点再规划路径——三个故事，同一个底层逻辑。"
+  },
+  {
+    "id": "in-the-game",
+    "title": "入局者",
+    "date": "2026-04-29",
+    "tags": ["life", "thinking", "investing"],
+    "summary": "所谓入局者心态，不是莽撞冲进去，而是用可承受的代价进入真实反馈循环。很多事情不是准备好了再开始，而是开始以后，才知道该准备什么。"
   }
 ]
